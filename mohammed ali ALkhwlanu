@@ -1,2 +1,5 @@
 # HAH EXTRACTOR DETECTS MD5/SHA HASHES IN FILES
-HAH Extractor is a specialized software utility designed to identify and extract cryptographic hash values—specifically MD5, SHA-1, and SHA-256—from digital files. Hash functions play a critical role in information security, enabling integrity verification, digital forensics, and malware analysis. This tool facilitates the automated detection of em
+HAH Extractor is a specialized software utility designed to identify and extract cryptographic 
+hash values—specifically MD5, SHA-1, and SHA-256—from digital files.
+Hash functions play a critical role in information security,
+enabling integrity verification,digital forensics, and malware analysis.
